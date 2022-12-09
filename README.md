@@ -4,7 +4,7 @@
 
 *Aqui venho desenvolvendo meu site* &#128242;
 
-[Site Guit Hub](https://github.com/Vitorjoaok/index.html);
+[Site Guit Hub](https://github.com/Vitorjoaok/index.html)
 
 
 
